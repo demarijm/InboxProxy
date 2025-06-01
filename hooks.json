@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sample",
+    "sender": "alice@example.com",
+    "subject_contains": "Test",
+    "action": {
+      "type": "command",
+      "command": "echo triggered"
+    }
+  }
+]
